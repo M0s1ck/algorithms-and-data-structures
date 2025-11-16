@@ -1,0 +1,20 @@
+# VSCode
+.vscode/
+*.code-workspace
+
+# Build artifacts C++
+/build/
+*.exe
+*.out
+
+# Python virtual env
+venv/
+.env/
+.venv/
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.7z
+*.rar
