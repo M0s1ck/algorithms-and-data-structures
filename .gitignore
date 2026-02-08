@@ -18,3 +18,5 @@ venv/
 *.tar.gz
 *.7z
 *.rar
+
+*.pdf
